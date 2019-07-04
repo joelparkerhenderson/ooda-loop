@@ -1,6 +1,13 @@
 # OODA loop
 
-* [](#)
+* [Introduction](#introduction)
+* [OODA loop: observe, orient, decide, act](#ooda-loop-observe-orient-decide-act)
+* [OODA loop: the strategic theory](#ooda-loop-the-strategic-theory)
+* [OODA loop for business](#ooda-loop-for-business)
+* [Three spheres: physical, mental, moral](#three-spheres-physical-mental-moral)
+* [Process to evolve](#process-to-evolve)
+* [Traditional worldview vs. emerging worldview](#traditional-worldview-vs-emerging-worldview)
+* [Planning paradigm as defined by the new sciences](#planning-paradigm-as-defined-by-the-new-sciences)
 
 
 
