@@ -1,6 +1,9 @@
 # OODA loop
 
-* [Introduction](#introduction)
+John Boyd is often known for the so-called ‘OODA’ loop model he developed. This model refers to a decision-making process and to the idea that military victory goes to the side that can complete the cycle from observation to action the fastest. This page is our notes about the OODA loop and notes from the book Science, Strategy and War: The strategic theory of John Boyd. By Frans P.B. Osinga.
+
+Contents:
+
 * [OODA loop: observe, orient, decide, act](#ooda-loop-observe-orient-decide-act)
 * [OODA loop: the strategic theory](#ooda-loop-the-strategic-theory)
 * [OODA loop for business](#ooda-loop-for-business)
@@ -8,15 +11,10 @@
 * [Process to evolve](#process-to-evolve)
 * [Traditional worldview vs. emerging worldview](#traditional-worldview-vs-emerging-worldview)
 * [Planning paradigm as defined by the new sciences](#planning-paradigm-as-defined-by-the-new-sciences)
-
-
-
-## Introduction
-
-Notes from the book Science, Strategy and War: The strategic theory of John Boyd. By Frans P.B. Osinga.
-
-John Boyd is often known for the so-called ‘OODA’ loop model he developed. This model refers to a decision-making process and to the idea that military victory goes to the side that can complete the cycle from observation to action the fastest.
-
+* [Applying Boyd's principles to business organizations](#applying-boyd-s-principles-to-business-organizations)
+  * [Maneuver-based organizations](#maneuver-based-organizations)
+  * [Adaptive synthesis](#adaptive-synthesis)
+  * [Trust and how to thrive on chaos](#trust-and-how-to-thrive-on-chaos)
 
 
 ## OODA loop: observe, orient, decide, act
@@ -119,3 +117,76 @@ The process not only creates the output but also represents the key to evolve th
 <tr><td>Change as threat</td><td>Change as opportunity</td></tr>
 <tr><td>Leads to stagnation and extinction</td><td>Leads to renewal and growth</td></tr>
 </table>
+
+
+## Applying Boyd's principles to business organizations
+
+
+Source: [Boyd and Beyond 2014](https://fasttransients.files.wordpress.com/2010/03/lenaneboydforbusiness.pdf)
+
+
+### Maneuver-based organizations
+
+
+Characteristics of maneuver-based organizations:
+
+* Rapidity of decision-making
+
+* Rapidity of action
+
+* Decentralized decision-making
+
+* Significant license to execute
+
+
+Features of maneuver-based organizations:
+
+* Unit cohesion and common values
+
+* High skill levels and training
+
+* New or adaptive reuse of technology
+
+* Tradecraft
+
+
+### Adaptive synthesis
+
+
+Thought experiment:
+
+* Break down complex systems into "building blocks". Adaptively reuse and reconfigure into new systems. Be quicker and more effective at coming up with new solutions.
+
+* Look at things from a number of perspectives. Utilize the tools of analysis and synthesis. Come up with novel approaches that integrate seemingly-unrelated concepts or elements. 
+
+
+Finding unique solutions via synthesis:
+
+* Synthesis is what happens when you are forced to draw a conclusion from an incomplete data set.
+
+* You have to think and plan in ways that are different. You have to adapt. You have to try things that are not “normal”.
+
+* Develop a non-standard mindset, and keep it churning.
+
+
+### Trust and how to thrive on chaos
+
+
+Trust among teammates:
+
+* Trust is an essential trait among teammates.
+
+* Trust is a product of confidence and familiarity. 
+
+* Confidence among colleagues results from demonstrated professional skill. 
+
+* Familiarity results from shared experience and a common professional philosophy. 
+
+
+Strategy and chaos:
+
+* The strategic roadmap should produce operations and tactics sufficient to design an organization which will truly thrive on chaos.
+
+* The organization must be built to respond in an elegant manner to constant environmental changes.
+
+* The organization must be be designed in a manner which will allow it to take as much advantage of these changes as possible, quickly, while losing as little energy as possible.
