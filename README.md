@@ -253,5 +253,6 @@ Behendigkeit: Literally "agility", nimbleness, quickness, swiftness. Behendigkei
 
 [A Discourse on Winning and Losing; by John Boyd](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.PDF)
 
-[The personal papers of Col. John Boyd - part II]https://fasttransients.files.wordpress.com/2018/06/the-personal-papers-of-col-john-boyd-part-ii.pdf)
+[The personal papers of Col. John Boyd - part II](https://fasttransients.files.wordpress.com/2018/06/the-personal-papers-of-col-john-boyd-part-ii.pdf)
+
 [Slightly East of New; a page of links about OODA and Boyd](https://slightlyeastofnew.com/439-2/)
