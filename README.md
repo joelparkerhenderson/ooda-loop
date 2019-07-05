@@ -9,9 +9,10 @@ Contents:
 * [OODA loop for business](#ooda-loop-for-business)
 * [Three spheres: physical, mental, moral](#three-spheres-physical-mental-moral)
 * [Process to evolve](#process-to-evolve)
+* [Quotations by Boyd](#quotations-by-boyd)
 * [Traditional worldview vs. emerging worldview](#traditional-worldview-vs-emerging-worldview)
 * [Planning paradigm as defined by the new sciences](#planning-paradigm-as-defined-by-the-new-sciences)
-* [Applying Boyd's principles to business organizations](#applying-boyd-s-principles-to-business-organizations)
+* [Applying Boyd's principles to business organizations](#applying-boyds-principles-to-business-organizations)
   * [Maneuver-based organizations](#maneuver-based-organizations)
   * [Adaptive synthesis](#adaptive-synthesis)
   * [Trust and how to thrive on chaos](#trust-and-how-to-thrive-on-chaos)
@@ -64,6 +65,16 @@ An important feature of Boyd's book of air maneuvers was that Boyd did not advoc
 His aim was not to convince people about the validity of this or that doctrine, but instead to create among his audience a way of thinking, a thought process.
 
 The process not only creates the output but also represents the key to evolve the tactics, strategies, goals, unifying themes, etc. that permit us to actively shape and adapt to the unfolding world.
+
+
+## Quotations by Boyd
+
+"Strategy is a mental tapestry of changing intentions for harmonizing and focusing our efforts as a basis for realizing some aim or purpose in an unfolding and often unforeseen world of many bewildering events and many contending interests."
+
+"The key idea is to emphasize implicit over explicit in order to gain a favorable mismatch in friction and time (i.e, ours lower than any adversary’s) for superiority in shaping and adapting to circumstances."
+
+"Arrange the setting and circumstances so that leaders and subordinates alike are given the opportunity to continuously interact with the external world, and with each other, in order to more quickly make many-sided implicit cross-referencing projections, empathies, correlations, and rejections as well as create the similar images or
+impressions, hence a similar implicit orientation, needed to form an organic whole."
 
 
 ## Traditional worldview vs. emerging worldview
