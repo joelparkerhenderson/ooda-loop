@@ -243,7 +243,7 @@ Behendigkeit: Literally "agility", nimbleness, quickness, swiftness. Behendigkei
 ### Schwerpunkt (main point)
 
 
-[Schwerpunkt](https://www.wikipedia.org/wiki/Schwerpunkt): literally "hard, difficult, heavy" point. Usually: center of gravity, focus of main effort, focus and direction. heuristic device (conceptual tool or thinking formula) to make decisions from tactics to strategy about priority. Schwerpunkt has been translated as centre of gravity, crucial, focal point and point of main effort. None of these forms is sufficient to describe the universal importance of the term and the concept of Schwerpunktprinzip. Every unit in the army, from the company to the supreme command, decided on a Schwerpunkt through schwerpunktbildung, as did the support services, which meant that commanders always knew what was most important and why.
+[Schwerpunkt](https://www.wikipedia.org/wiki/Schwerpunkt): literally "hard, difficult, heavy" point. Usually: center of gravity, focus of main effort, focus and direction. heuristic device (conceptual tool or thinking formula) to make decisions from tactics to strategy about priority. None of these forms is sufficient to describe the universal importance of the term and the concept of Schwerpunktprinzip. Every unit in the army, from the company to the supreme command, decided on a Schwerpunkt through schwerpunktbildung, as did the support services, which meant that commanders always knew what was most important and why.
 
 
 ## Resources
