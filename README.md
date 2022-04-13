@@ -1,10 +1,11 @@
 # OODA loop
 
-John Boyd is often known for the so-called ‘OODA’ loop model he developed. This model refers to a decision-making process and to the idea that military victory goes to the side that can complete the cycle from observation to action the fastest. This page is our notes about the OODA loop and notes from the book Science, Strategy and War: The strategic theory of John Boyd. By Frans P.B. Osinga.
+The "OODA loop" is the cycle of "Observe, Orient, Decide, Act" developed by military strategist John Boyd. This page is our notes about the OODA loop, the book "Science, Strategy and War: The strategic theory of John Boyd - By Frans P.B. Osinga", and related ideas.
 
 Contents:
 
 * [OODA loop: observe, orient, decide, act](#ooda-loop-observe-orient-decide-act)
+* [OODA loop: more than meets the eye](#ooda-loop-more-than-meets-the-eye)
 * [OODA loop: the strategic theory](#ooda-loop-the-strategic-theory)
 * [OODA loop for business](#ooda-loop-for-business)
 * [Three spheres: physical, mental, moral](#three-spheres-physical-mental-moral)
@@ -27,64 +28,139 @@ Contents:
 
 ## OODA loop: observe, orient, decide, act
 
-The OODA loop is the cycle of observe, orient, decide, act. The approach explains how agility can overcome raw power. Compare it to the plan–do–check–act (PDCA) cycle or Shewhart cycle.
 
-The loop states that decision-making occurs in a recurring cycle of observe–orient–decide–act. An entity (whether an individual or an organization) that can process this cycle quickly, observing and reacting to unfolding events more rapidly than an opponent, can thereby "get inside" the opponent's decision cycle and thus gain advantages.
+The OODA loop is the cycle of observe, orient, decide, act. The approach
+explains how agility can overcome raw power. Compare it to the plan–do–check–act
+(PDCA) cycle or Shewhart cycle.
 
-The OODA loop was developed by military strategist John Boyd, to explain how to direct one's energies to defeat an adversary and survive. Boyd emphasized that "the loop" is actually a set of interacting loops that are to be kept in continuous operation during combat. Boyd also indicated that the phase of the battle has an important bearing on the ideal allocation of one's energies. Boyd's views on the OODA loop are much deeper, richer, and more comprehensive than the common interpretation of the "rapid OODA loop" idea.
+The loop states that decision-making occurs in a recurring cycle of
+observe–orient–decide–act. An entity (whether an individual or an organization)
+that can process this cycle quickly, observing and reacting to unfolding events
+more rapidly than an opponent, can thereby "get inside" the opponent's decision
+cycle and thus gain advantages.
+
+The OODA loop was developed by military strategist John Boyd, to explain how to
+direct one's energies to defeat an adversary and survive. Boyd emphasized that
+"the loop" is actually a set of interacting loops that are to be kept in
+continuous operation during combat. Boyd also indicated that the phase of the
+battle has an important bearing on the ideal allocation of one's energies.
+
+Boyd's views on the OODA loop are much deeper, richer, and more comprehensive
+than the common interpretation of the "rapid OODA loop" idea. Boyd's ideas
+feature in the literature on Network Centric Warfare, a key element of the US
+and NATO’s so-called ‘military transformation’ programmes, as well as in the
+debate on Fourth Generation Warfare.
 
 
 ## OODA loop: the strategic theory
 
-In any conflict all combatants go through repeated cycles of observation, orientation, decision, action. The potentially victorious combatant is the one with the cycles which are consistently quicker than his opponent, including the time required to transition from one cycle to the next.
 
-In order to generate the tempo of operations that we desire, and to best cope with the uncertainty, disorder, and fluidity of combat, command and control must be decentralized.
+In any conflict all combatants go through repeated cycles of observation,
+orientation, decision, action. The potentially victorious combatant is the one
+with the cycles which are consistently quicker than his opponent, including the
+time required to transition from one cycle to the next.
 
-The aim of a strategist is not so much to seek battle as to seek a strategic situation so advantageous that if it does not of itself product the decision, its continuation by a battle is sure to achive this.
+In order to generate the tempo of operations that we desire, and to best cope
+with the uncertainty, disorder, and fluidity of combat, command and control must
+be decentralized.
+
+The aim of a strategist is not so much to seek battle as to seek a strategic
+situation so advantageous that if it does not of itself product the decision,
+its continuation by a battle is sure to achive this.
 
 
 ## OODA loop for business
 
-The same OODA loop operates in a competitive business landscape, and the same logic applies. 
+
+The same OODA loop operates in a competitive business landscape, and the same
+logic applies. 
 
 Decision makers gather information (observe).
 
-Decision makers then form hypotheses about markets, customers, products, activities, and the intentions of competitors (orient).
+Decision makers then form hypotheses about markets, customers, products,
+activities, and the intentions of competitors (orient).
 
 Decision makers then make decisions, and act on them. 
 
-The cycle is repeated continuously, and favors business agility over raw power. The aggressive and conscious application of the process gives a business advantage over a competitor who is merely reacting to conditions as they occur or has poor awareness of the situation. 
+The cycle is repeated continuously, and favors business agility over raw power.
+The aggressive and conscious application of the process gives a business
+advantage over a competitor who is merely reacting to conditions as they occur
+or has poor awareness of the situation. 
 
 
 ## Three spheres: physical, mental, moral
 
-Boyd used a concept of three spheres of war: the physical, the mental, and the moral dimension, using this idea of to structure his argument and develop three modes of conflict. 
 
-Respectively, these spheres dealt with destruction of the enemy's physical strength (fighting power), disorganization of his mental processes (thinking power), and disintigraion of his moral will to resist (staying power). The forces operating within these spheres did so in synergistic ways, not isolated ways.
+Boyd used a concept of three spheres of war: the physical, the mental, and the
+moral dimension, using this idea of to structure his argument and develop three
+modes of conflict. 
 
-Boyd emphasized speed, tempo, variety, surprise, trust, initiative, movement, and his view that the moral and mental dimensions came before technology, superiority in numbers, and massed firepower.
+Respectively, these spheres dealt with destruction of the enemy's physical
+strength (fighting power), disorganization of his mental processes (thinking
+power), and disintigraion of his moral will to resist (staying power). The
+forces operating within these spheres did so in synergistic ways, not isolated
+ways.
+
+Boyd emphasized speed, tempo, variety, surprise, trust, initiative, movement,
+and his view that the moral and mental dimensions came before technology,
+superiority in numbers, and massed firepower.
 
 
 ## Process to evolve
 
-An important feature of Boyd's book of air maneuvers was that Boyd did not advocate one maneuver over another, but presented the options available to the pilot and his opponent in relation to each other. He wanted to show people a variety of moves and countermoves, and the logic of its dynamic.
 
-His aim was not to convince people about the validity of this or that doctrine, but instead to create among his audience a way of thinking, a thought process.
+An important feature of Boyd's book of air maneuvers was that Boyd did not
+advocate one maneuver over another, but presented the options available to the
+pilot and his opponent in relation to each other. He wanted to show people a
+variety of moves and countermoves, and the logic of its dynamic.
 
-The process not only creates the output but also represents the key to evolve the tactics, strategies, goals, unifying themes, etc. that permit us to actively shape and adapt to the unfolding world.
+His aim was not to convince people about the validity of this or that doctrine,
+but instead to create among his audience a way of thinking, a thought process.
+
+The process not only creates the output but also represents the key to evolve
+the tactics, strategies, goals, unifying themes, etc. that permit us to actively
+shape and adapt to the unfolding world.
+
+
+## Network Centric Warfare  
+
+
+With the OODA loop Boyd had developed the precursor of what was later described
+as "Network Centric Warfare" both in its limited meaning as a Command, Control,
+Computer, Communications, Intelligence, Reconnaissance, and Surveillance (C4ISR)
+system and its broader strategic implications as a strategic concept. 
+
+Boyd emphasized the importance of communications as the foundation of the loop
+and information management as essential to the Orientation portion of the loop.
+The OODA strategic applications were related to creating greater flexibility by
+moving decision making down to the lowest level while creating situational
+awareness on the highest level. 
+
+[Source](https://www.amazon.com/gp/profile/amzn1.account.AG37RQGYWU3Y7LIYF6YTUFWOREYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8)
 
 
 ## Quotations by Boyd
 
-"Strategy is a mental tapestry of changing intentions for harmonizing and focusing our efforts as a basis for realizing some aim or purpose in an unfolding and often unforeseen world of many bewildering events and many contending interests."
 
-"The key idea is to emphasize implicit over explicit in order to gain a favorable mismatch in friction and time (i.e, ours lower than any adversary’s) for superiority in shaping and adapting to circumstances."
+"Strategy is a mental tapestry of changing intentions for harmonizing and
+focusing our efforts as a basis for realizing some aim or purpose in an
+unfolding and often unforeseen world of many bewildering events and many
+contending interests."
 
-"Arrange the setting and circumstances so that leaders and subordinates alike are given the opportunity to continuously interact with the external world, and with each other, in order to more quickly make many-sided implicit cross-referencing projections, empathies, correlations, and rejections as well as create the similar images or
-impressions, hence a similar implicit orientation, needed to form an organic whole."
+"The key idea is to emphasize implicit over explicit in order to gain a
+favorable mismatch in friction and time (i.e, ours lower than any adversary’s)
+for superiority in shaping and adapting to circumstances."
+
+"Arrange the setting and circumstances so that leaders and subordinates alike
+are given the opportunity to continuously interact with the external world, and
+with each other, in order to more quickly make many-sided implicit
+cross-referencing projections, empathies, correlations, and rejections as well
+as create the similar images or impressions, hence a similar implicit
+orientation, needed to form an organic whole."
 
 
 ## Traditional worldview vs. emerging worldview
+
 
 <table>
 <tr><th>Traditional worldview</th><th>Emerging worldview</th></tr>
@@ -107,6 +183,7 @@ impressions, hence a similar implicit orientation, needed to form an organic who
 
 
 ## Planning paradigm as defined by the new sciences
+
 
 <table>
 <tr><th>From</th><th>To</th></tr>
@@ -173,9 +250,13 @@ Features of maneuver-based organizations:
 
 Thought experiment:
 
-* Break down complex systems into "building blocks". Adaptively reuse and reconfigure into new systems. Be quicker and more effective at coming up with new solutions.
+* Break down complex systems into "building blocks". Adaptively reuse and
+  reconfigure into new systems. Be quicker and more effective at coming up with
+  new solutions.
 
-* Look at things from a number of perspectives. Utilize the tools of analysis and synthesis. Come up with novel approaches that integrate seemingly-unrelated concepts or elements. 
+* Look at things from a number of perspectives. Utilize the tools of analysis
+  and synthesis. Come up with novel approaches that integrate
+  seemingly-unrelated concepts or elements. 
 
 
 Finding unique solutions via synthesis:
@@ -213,13 +294,18 @@ Strategy and chaos:
 ## EBFAS organizational climate
 
 
-"EBFAS" is Boyd’s German acronym from the elements of his organizational climate: Einheit (oneness), Behendigkeit (agility), Fingerspitzengefühl (fingertip feeling), Auftragstaktik (task tactic), Schwerpunkt (main point).
+"EBFAS" is Boyd’s German acronym from the elements of his organizational
+climate: Einheit (oneness), Behendigkeit (agility), Fingerspitzengefühl
+(fingertip feeling), Auftragstaktik (task tactic), Schwerpunkt (main point).
 
 
 ### Einheit (oneness)
 
 
-Einheit: Literally "one-ness" or "unity". Can mean "a military detachment or unit". A common outlook possessed by "a body of officers" represents a unifying theme that can be used to simultaneously encourage subordinate initiative yet realize superior intent. TODO: Create Wikipedia entry.
+Einheit: Literally "one-ness" or "unity". Can mean "a military detachment or
+unit". A common outlook possessed by "a body of officers" represents a unifying
+theme that can be used to simultaneously encourage subordinate initiative yet
+realize superior intent. TODO: Create Wikipedia entry.
 
 
 ### Behendigkeit (agility)
@@ -244,6 +330,32 @@ Behendigkeit: Literally "agility", nimbleness, quickness, swiftness. Behendigkei
 
 
 [Schwerpunkt](https://www.wikipedia.org/wiki/Schwerpunkt): literally "hard, difficult, heavy" point. Usually: center of gravity, focus of main effort, focus and direction. heuristic device (conceptual tool or thinking formula) to make decisions from tactics to strategy about priority. None of these forms is sufficient to describe the universal importance of the term and the concept of Schwerpunktprinzip. Every unit in the army, from the company to the supreme command, decided on a Schwerpunkt through schwerpunktbildung, as did the support services, which meant that commanders always knew what was most important and why.
+
+
+## A Discourse on Winning and Losing
+
+
+A Discourse on Winning and Losing - By John R. Boyd.
+
+Abstract: To flourish and grow in a many-sided, uncertain and ever-changing world that surrounds us,
+suggests that we have to make intuitive within ourselves those many practices we need to meet
+the exigencies of that world. The contents, hence the five sections that comprise this Discourse,
+unfold observations and ideas that contribute toward achieving or thwarting such an aim or
+purpose. Specifically:
+
+* "Patterns of Conflict" represents a compendium of idea and actions for winning and losing
+in a highly competitive world;
+
+* "Organic Design for Command and Control" surfaces the implicit arrangements that permit
+cooperation in complex, competitive, fast moving situations;
+
+* "The Strategic Game of ? and ?" emphasizes the mental twists and turns we undertake to
+surface schemes or designs for realizing our aims or purposes;
+
+* “Destruction and Creation” lays out in abstract but graphic fashion the ways by which
+we evolve mental concepts to comprehend and cope with our environment;
+
+* “Revelation” makes visible the metaphorical message that flows from this Discourse
 
 
 ## Resources
