@@ -1,6 +1,8 @@
 # OODA loop
 
-The "OODA loop" is the cycle of "Observe, Orient, Decide, Act" developed by military strategist John Boyd. This page is our notes about the OODA loop, the book "Science, Strategy and War: The strategic theory of John Boyd - By Frans P.B. Osinga", and related ideas.
+The "OODA loop" is the cycle of "Observe, Orient, Decide, Act" developed by
+military strategist John Boyd. This page is our notes about the OODA loop, the
+book "Science, Strategy and War", and related ideas.
 
 Contents:
 
@@ -30,20 +32,36 @@ Contents:
 
 
 The OODA loop is the cycle of observe, orient, decide, act. The approach
-explains how agility can overcome raw power. Compare it to the plan–do–check–act
-(PDCA) cycle or Shewhart cycle.
+explains how agility can overcome raw power. 
 
-The loop states that decision-making occurs in a recurring cycle of
+<b>Observe</b>: gather information about the environment, the adversary, the
+decision-maker, the context, etc.
+
+<b>Orient</b>: evaluate the threat, make logical connections, decide on focus,
+and get inside the mind of the adversary so strategies can be oriented against
+the adversary's capabilties. 
+
+<b>Decide</b>: choose a course of action to pursue, balancing the need to make
+rapid decisions and the need to make careful choices.
+
+<b>Act</b>: Execute quickly and immediately, then return to the Observe step, in
+order to analyze the changes, including the adversary's reactions.
+
+
+## OODA loop: the recurring cycle of interacting loops
+
+
+The OODA loop states that decision-making occurs in a recurring cycle of
 observe–orient–decide–act. An entity (whether an individual or an organization)
 that can process this cycle quickly, observing and reacting to unfolding events
 more rapidly than an opponent, can thereby "get inside" the opponent's decision
 cycle and thus gain advantages.
 
-The OODA loop was developed by military strategist John Boyd, to explain how to
-direct one's energies to defeat an adversary and survive. Boyd emphasized that
-"the loop" is actually a set of interacting loops that are to be kept in
-continuous operation during combat. Boyd also indicated that the phase of the
-battle has an important bearing on the ideal allocation of one's energies.
+The OODA loop explains how to direct one's energies to defeat an adversary and
+survive. Boyd emphasized that "the loop" is actually a set of interacting loops
+that are to be kept in continuous operation during combat. Boyd also indicated
+that the phase of the battle has an important bearing on the ideal allocation of
+one's energies.
 
 Boyd's views on the OODA loop are much deeper, richer, and more comprehensive
 than the common interpretation of the "rapid OODA loop" idea. Boyd's ideas
@@ -88,6 +106,35 @@ advantage over a competitor who is merely reacting to conditions as they occur
 or has poor awareness of the situation. 
 
 
+## OODA loop v DMAIC cycle v PDCA iteration
+
+The OODA loop of military strategy is sometimes compared to the DMAIC cycle of project management, and also to the PDCA spiral of iterative planning. 
+
+[OODA: Observe, Orient, Decide, Act](https://en.wikipedia.org/wiki/OODA_loop): a framework for how to direct one's energies to defeat an adversary. The OODA loop is a core tool used for U.S. military planning. OODA can also be useful for business strategy planing.
+
+[DMAIC: Define, Measure, Analyze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC): a data-driven improvement cycle for optimizing and stabilizing business processes and designs. The DMAIC improvement cycle is the core tool used to drive Six Sigma projects. DMAIC can be used as the framework for other improvement applications.
+
+[PDCA: Plan, Do, Check, Act](https://en.wikipedia.org/wiki/PDCA): a data-driven improvement cycle for iterating towards an improved system, implemented in spirals of increasing knowledge of the system that converge on the ultimate goal, each cycle closer than the previous. It is also known as the Deming circle/cycle/wheel, the Shewhart cycle, the control circle/cycle, or plan–do–study–act (PDSA).
+
+<table>
+<tbody>
+<tr><td>                                  </td><td><b>OODA</b>         </td><td><b>DMAIC</b>      </td><td><b>PDCA                     </td></tr>
+<tr><td><b>Identify the problem      </b></td><td rowspan=2>Observe   </td><td rowspan=1>Define  </td><td rowspan=4>Plan               </td></tr>
+<tr><td><b>Measure the problem       </b></td>                             <td rowspan=1>Measure </td>                                      </tr>
+<tr><td><b>Analyze the problem       </b></td><td rowspan=1>Orient    </td><td rowspan=1>Analyze </td>                                      </tr>
+<tr><td><b>Create action plans       </b></td><td rowspan=1>Decide    </td><td rowspan=2>Improve </td>                                      </tr>
+<tr><td><b>Execute action plans      </b></td><td rowspan=1>Act       </td>                           <td rowspan=1>Do                 </td></tr>
+<tr><td><b>Verify the results        </b></td><td rowspan=2>Observe   </td><td rowspan=5>Control </td><td rowspan=3>Check a.k.a. Study </td></tr>
+<tr><td><b>Measure the results       </b></td>                                                                                              </tr>
+<tr><td><b>Analyze the results       </b></td><td rowspan=1>Orient    </td>                                                                 </tr>
+<tr><td><b>Create improvement plans  </b></td><td rowspan=1>Decide    </td>                           <td rowspan=2>Act a.k.a. Adjust  </td></tr>
+<tr><td><b>Execute improvement plans </b></td><td rowspan=1>Act       </td>                                                                 </tr>
+</tbody>
+</table>
+
+
+Root causes of such issues are investigated, found, and eliminated by modifying the process. Risk is re-evaluated.
+
 ## Three spheres: physical, mental, moral
 
 
@@ -125,10 +172,10 @@ shape and adapt to the unfolding world.
 ## Network Centric Warfare  
 
 
-With the OODA loop Boyd had developed the precursor of what was later described
-as "Network Centric Warfare" both in its limited meaning as a Command, Control,
-Computer, Communications, Intelligence, Reconnaissance, and Surveillance (C4ISR)
-system and its broader strategic implications as a strategic concept. 
+The OODA loop is a precursor of what was later described as "Network Centric
+Warfare" both in its limited meaning as a Command, Control, Computer,
+Communications, Intelligence, Reconnaissance, and Surveillance (C4ISR) system
+and its broader strategic implications as a strategic concept. 
 
 Boyd emphasized the importance of communications as the foundation of the loop
 and information management as essential to the Orientation portion of the loop.
