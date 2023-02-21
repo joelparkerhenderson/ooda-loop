@@ -408,6 +408,8 @@ we evolve mental concepts to comprehend and cope with our environment;
 ## Resources
 
 
+[Wikipedia: OODA loop](https://en.wikipedia.org/wiki/OODA_loop)
+
 [John Boyd Compendium; by Project on Government Oversight](http://dnipogo.org/john-r-boyd/)
 
 [A Discourse on Winning and Losing; by John Boyd](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.PDF)
