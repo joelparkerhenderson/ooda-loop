@@ -7,39 +7,32 @@ book "Science, Strategy and War", and related ideas.
 Contents:
 
 * [OODA loop: observe, orient, decide, act](#ooda-loop-observe-orient-decide-act)
-* [OODA loop: more than meets the eye](#ooda-loop-more-than-meets-the-eye)
+* [OODA loop: the recurring cycle of interacting loops](#ooda-loop-the-recurring-cycle-of-interacting-loops)
 * [OODA loop: the strategic theory](#ooda-loop-the-strategic-theory)
 * [OODA loop for business](#ooda-loop-for-business)
+* [OODA loop v DMAIC cycle v PDCA iteration](#ooda-loop-v-dmaic-cycle-v-pdca-iteration)
 * [Three spheres: physical, mental, moral](#three-spheres-physical-mental-moral)
 * [Process to evolve](#process-to-evolve)
+* [Network Centric Warfare](#network-centric-warfare)
 * [Quotations by Boyd](#quotations-by-boyd)
 * [Traditional worldview vs. emerging worldview](#traditional-worldview-vs-emerging-worldview)
 * [Planning paradigm as defined by the new sciences](#planning-paradigm-as-defined-by-the-new-sciences)
 * [Applying Boyd's principles to business organizations](#applying-boyds-principles-to-business-organizations)
-  * [Maneuver-based organizations](#maneuver-based-organizations)
-  * [Adaptive synthesis](#adaptive-synthesis)
-  * [Trust and how to thrive on chaos](#trust-and-how-to-thrive-on-chaos)
 * [EBFAS organizational climate](#ebfas-organizational-climate)
-  * [Einheit (oneness)](#einheit-oneness)
-  * [Behendigkeit (agility)](#behendigkeit-agility)
-  * [Fingerspitzengefühl (fingertip feeling)](#fingerspitzengef-hl-fingertip-feeling)
-  * [Auftragstaktik (task tactic)](#auftragstaktik-task-tactic)
-  * [Schwerpunkt (main point)](#schwerpunkt-main-point)
+* [A Discourse on Winning and Losing](#a-discourse-on-winning-and-losing)
 * [Resources](#resources)
-
 
 ## OODA loop: observe, orient, decide, act
 
-
 The OODA loop is the cycle of observe, orient, decide, act. The approach
-explains how agility can overcome raw power. 
+explains how agility can overcome raw power.
 
 <b>Observe</b>: gather information about the environment, the adversary, the
 decision-maker, the context, etc.
 
 <b>Orient</b>: evaluate the threat, make logical connections, decide on focus,
 and get inside the mind of the adversary so strategies can be oriented against
-the adversary's capabilties. 
+the adversary's capabilities.
 
 <b>Decide</b>: choose a course of action to pursue, balancing the need to make
 rapid decisions and the need to make careful choices.
@@ -47,9 +40,7 @@ rapid decisions and the need to make careful choices.
 <b>Act</b>: Execute quickly and immediately, then return to the Observe step, in
 order to analyze the changes, including the adversary's reactions.
 
-
 ## OODA loop: the recurring cycle of interacting loops
-
 
 The OODA loop states that decision-making occurs in a recurring cycle of
 observe–orient–decide–act. An entity (whether an individual or an organization)
@@ -69,9 +60,7 @@ feature in the literature on Network Centric Warfare, a key element of the US
 and NATO’s so-called ‘military transformation’ programmes, as well as in the
 debate on Fourth Generation Warfare.
 
-
 ## OODA loop: the strategic theory
-
 
 In any conflict all combatants go through repeated cycles of observation,
 orientation, decision, action. The potentially victorious combatant is the one
@@ -86,29 +75,26 @@ The aim of a strategist is not so much to seek battle as to seek a strategic
 situation so advantageous that if it does not of itself product the decision,
 its continuation by a battle is sure to achive this.
 
-
 ## OODA loop for business
 
-
 The same OODA loop operates in a competitive business landscape, and the same
-logic applies. 
+logic applies.
 
 Decision makers gather information (observe).
 
 Decision makers then form hypotheses about markets, customers, products,
 activities, and the intentions of competitors (orient).
 
-Decision makers then make decisions, and act on them. 
+Decision makers then make decisions, and act on them.
 
 The cycle is repeated continuously, and favors business agility over raw power.
 The aggressive and conscious application of the process gives a business
 advantage over a competitor who is merely reacting to conditions as they occur
-or has poor awareness of the situation. 
-
+or has poor awareness of the situation.
 
 ## OODA loop v DMAIC cycle v PDCA iteration
 
-The OODA loop of military strategy is sometimes compared to the DMAIC cycle of project management, and also to the PDCA spiral of iterative planning. 
+The OODA loop of military strategy is sometimes compared to the DMAIC cycle of project management, and also to the PDCA spiral of iterative planning.
 
 [OODA: Observe, Orient, Decide, Act](https://en.wikipedia.org/wiki/OODA_loop): a framework for how to direct one's energies to defeat an adversary. The OODA loop is a core tool used for U.S. military planning. OODA can also be useful for business strategy planing.
 
@@ -132,15 +118,13 @@ The OODA loop of military strategy is sometimes compared to the DMAIC cycle of p
 </tbody>
 </table>
 
-
 Root causes of such issues are investigated, found, and eliminated by modifying the process. Risk is re-evaluated.
 
 ## Three spheres: physical, mental, moral
 
-
 Boyd used a concept of three spheres of war: the physical, the mental, and the
 moral dimension, using this idea of to structure his argument and develop three
-modes of conflict. 
+modes of conflict.
 
 Respectively, these spheres dealt with destruction of the enemy's physical
 strength (fighting power), disorganization of his mental processes (thinking
@@ -152,9 +136,7 @@ Boyd emphasized speed, tempo, variety, surprise, trust, initiative, movement,
 and his view that the moral and mental dimensions came before technology,
 superiority in numbers, and massed firepower.
 
-
 ## Process to evolve
-
 
 An important feature of Boyd's book of air maneuvers was that Boyd did not
 advocate one maneuver over another, but presented the options available to the
@@ -168,26 +150,22 @@ The process not only creates the output but also represents the key to evolve
 the tactics, strategies, goals, unifying themes, etc. that permit us to actively
 shape and adapt to the unfolding world.
 
-
-## Network Centric Warfare  
-
+## Network Centric Warfare
 
 The OODA loop is a precursor of what was later described as "Network Centric
 Warfare" both in its limited meaning as a Command, Control, Computer,
 Communications, Intelligence, Reconnaissance, and Surveillance (C4ISR) system
-and its broader strategic implications as a strategic concept. 
+and its broader strategic implications as a strategic concept.
 
 Boyd emphasized the importance of communications as the foundation of the loop
 and information management as essential to the Orientation portion of the loop.
 The OODA strategic applications were related to creating greater flexibility by
 moving decision making down to the lowest level while creating situational
-awareness on the highest level. 
+awareness on the highest level.
 
 [Source](https://www.amazon.com/gp/profile/amzn1.account.AG37RQGYWU3Y7LIYF6YTUFWOREYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8)
 
-
 ## Quotations by Boyd
-
 
 "Strategy is a mental tapestry of changing intentions for harmonizing and
 focusing our efforts as a basis for realizing some aim or purpose in an
@@ -205,9 +183,7 @@ cross-referencing projections, empathies, correlations, and rejections as well
 as create the similar images or impressions, hence a similar implicit
 orientation, needed to form an organic whole."
 
-
 ## Traditional worldview vs. emerging worldview
-
 
 <table>
 <tr><th>Traditional worldview</th><th>Emerging worldview</th></tr>
@@ -228,9 +204,7 @@ orientation, needed to form an organic whole."
 <tr><td>Focus on averages</td><td>Focus on variation</td></tr>
 </table>
 
-
 ## Planning paradigm as defined by the new sciences
-
 
 <table>
 <tr><th>From</th><th>To</th></tr>
@@ -260,15 +234,11 @@ orientation, needed to form an organic whole."
 <tr><td>Leads to stagnation and extinction</td><td>Leads to renewal and growth</td></tr>
 </table>
 
-
 ## Applying Boyd's principles to business organizations
-
 
 Source: [Boyd and Beyond 2014](https://fasttransients.files.wordpress.com/2010/03/lenaneboydforbusiness.pdf)
 
-
 ### Maneuver-based organizations
-
 
 Characteristics of maneuver-based organizations:
 
@@ -280,7 +250,6 @@ Characteristics of maneuver-based organizations:
 
 * Significant license to execute
 
-
 Features of maneuver-based organizations:
 
 * Unit cohesion and common values
@@ -291,9 +260,7 @@ Features of maneuver-based organizations:
 
 * Tradecraft
 
-
 ### Adaptive synthesis
-
 
 Thought experiment:
 
@@ -303,8 +270,7 @@ Thought experiment:
 
 * Look at things from a number of perspectives. Utilize the tools of analysis
   and synthesis. Come up with novel approaches that integrate
-  seemingly-unrelated concepts or elements. 
-
+  seemingly-unrelated concepts or elements.
 
 Finding unique solutions via synthesis:
 
@@ -314,20 +280,17 @@ Finding unique solutions via synthesis:
 
 * Develop a non-standard mindset, and keep it churning.
 
-
 ### Trust and how to thrive on chaos
-
 
 Trust among teammates:
 
 * Trust is an essential trait among teammates.
 
-* Trust is a product of confidence and familiarity. 
+* Trust is a product of confidence and familiarity.
 
-* Confidence among colleagues results from demonstrated professional skill. 
+* Confidence among colleagues results from demonstrated professional skill.
 
-* Familiarity results from shared experience and a common professional philosophy. 
-
+* Familiarity results from shared experience and a common professional philosophy.
 
 Strategy and chaos:
 
@@ -337,50 +300,36 @@ Strategy and chaos:
 
 * The organization must be be designed in a manner which will allow it to take as much advantage of these changes as possible, quickly, while losing as little energy as possible.
 
-
 ## EBFAS organizational climate
-
 
 "EBFAS" is Boyd’s German acronym from the elements of his organizational
 climate: Einheit (oneness), Behendigkeit (agility), Fingerspitzengefühl
 (fingertip feeling), Auftragstaktik (task tactic), Schwerpunkt (main point).
 
-
 ### Einheit (oneness)
-
 
 Einheit: Literally "one-ness" or "unity". Can mean "a military detachment or
 unit". A common outlook possessed by "a body of officers" represents a unifying
 theme that can be used to simultaneously encourage subordinate initiative yet
 realize superior intent. TODO: Create Wikipedia entry.
 
-
 ### Behendigkeit (agility)
-
 
 Behendigkeit: Literally "agility", nimbleness, quickness, swiftness. Behendigkeit, the way Boyd used it, is the ability to break out of longstanding patterns, even if they have been successful.
 
-
 ### Fingerspitzengefühl (fingertip feeling)
 
-
-[Fingerspitzengefühl](https://www.wikipedia.org/wiki/Fingerspitzengef%C3%BChl): literally "fingertip feeling". Means intuitive flair or instinct, which has been adopted by the English language as a loanword. It describes a great situational awareness, and the ability to respond most appropriately and tactfully. It can also be applied to diplomats, bearers of bad news, sports players, or to describe a superior ability to respond to an escalated situation. 
-
+[Fingerspitzengefühl](https://www.wikipedia.org/wiki/Fingerspitzengef%C3%BChl): literally "fingertip feeling". Means intuitive flair or instinct, which has been adopted by the English language as a loanword. It describes a great situational awareness, and the ability to respond most appropriately and tactfully. It can also be applied to diplomats, bearers of bad news, sports players, or to describe a superior ability to respond to an escalated situation.
 
 ### Auftragstaktik (task tactic)
 
-
 [Auftragstaktik](https://www.wikipedia.org/wiki/Auftragstaktik): a form of military tactics where the emphasis is on the outcome of a mission rather than the specific means of achieving it. Mission-type tactics have been a central component of military tactics since the 19th century. The term Auftragstaktik was coined by opponents of the development of mission-type tactics. Opponents of the implementation of mission-type tactics were called Normaltaktiker.
-
 
 ### Schwerpunkt (main point)
 
-
 [Schwerpunkt](https://www.wikipedia.org/wiki/Schwerpunkt): literally "hard, difficult, heavy" point. Usually: center of gravity, focus of main effort, focus and direction. heuristic device (conceptual tool or thinking formula) to make decisions from tactics to strategy about priority. None of these forms is sufficient to describe the universal importance of the term and the concept of Schwerpunktprinzip. Every unit in the army, from the company to the supreme command, decided on a Schwerpunkt through schwerpunktbildung, as did the support services, which meant that commanders always knew what was most important and why.
 
-
 ## A Discourse on Winning and Losing
-
 
 A Discourse on Winning and Losing - By John R. Boyd.
 
@@ -404,9 +353,7 @@ we evolve mental concepts to comprehend and cope with our environment;
 
 * “Revelation” makes visible the metaphorical message that flows from this Discourse
 
-
 ## Resources
-
 
 [Wikipedia: OODA loop](https://en.wikipedia.org/wiki/OODA_loop)
 
